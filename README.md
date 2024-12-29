@@ -4,5 +4,5 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 
 ## Connect with Me
 
-- [LinkedIn](www.linkedin.com/in/alexanderspurlock)
-- [My Website](www.alexanderspurlock.com)
+- [LinkedIn](https://linkedin.com/in/alexanderspurlock)
+- [My Website](https://alexanderspurlock.com)
